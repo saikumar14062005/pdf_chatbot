@@ -26,11 +26,3 @@ Built using **Python**, **LangChain**, **FAISS**, and **Streamlit** for an inter
 - **Streamlit**
 
 ---
-
-## 📦 Installation
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/multi-pdf-chatbot.git
-cd multi-pdf-chatbot
-
