@@ -1,5 +1,36 @@
 # PDF-ChatBot
-# PDF-ChatBot
-# PDF-ChatBot
-# pdf_chatbot
-# pdf_chatbot
+# 🧠 Multi-PDF Chatbot
+
+A smart chatbot that allows users to **upload multiple PDF files**, automatically **extracts their content**, and lets you **ask questions** about the PDFs in natural language.  
+Built using **Python**, **LangChain**, **FAISS**, and **Streamlit** for an interactive UI.
+
+---
+
+## 🚀 Features
+
+- 📄 Upload and process **multiple PDFs** at once  
+- 🧩 Uses **LangChain** to split, embed, and manage context  
+- ⚡ **FAISS vector store** for fast similarity search  
+- 💬 Conversational chat interface with **memory**  
+- 🌐 Simple **Streamlit** web UI  
+
+---
+
+## 🧰 Tech Stack
+
+- **Python 3.9+**
+- **LangChain**
+- **FAISS**
+- **PyPDF2**
+- **OpenAI**
+- **Streamlit**
+
+---
+
+## 📦 Installation
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/multi-pdf-chatbot.git
+cd multi-pdf-chatbot
+
